@@ -16,10 +16,10 @@ public class PrintDuplicates {
 		System.out.println("");
 
 		for(int i =0;i<arr.length -1;i++) {//uses 2 for loops to hold index and check for duplicate elements
-			int duplicates = 1;
+			int duplicates = 1; // 1 as number has occoureds
 			for(int j = i+1;j<arr.length;j++) {
 				if(arr[i] == arr[j]) {
-					duplicates++;
+					duplicates++; //increments number of duplicates
 					pop(arr, j);
 				}
 			}
