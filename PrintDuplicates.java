@@ -3,6 +3,24 @@ package com.edu.users;
 import java.util.Arrays;
 import java.util.PrimitiveIterator.OfDouble;
 
+/*
+*
+* PRINT NUMBER OF DUPLICATES IN AN ARRAY
+* I/P:	[20,20,30,10,10,40,50,50]
+* O/P: input array
+	20 20 30 10 10 40 50 50 
+	number: 20-> instances: 2
+	number: 30-> instances: 1
+	number: 10-> instances: 2
+	number: 40-> instances: 1
+	number: 50-> instances: 2
+*
+* author: Mrityunjay Shrivastava
+* emp id: T00786
+*/
+
+
+
 public class PrintDuplicates {
 
 	public static void main(String[] args) {
