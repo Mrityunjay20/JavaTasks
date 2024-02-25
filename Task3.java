@@ -114,41 +114,40 @@ public class Task3 {
 	
 		default:
 			return "wrong2";}}
-	public static String numberInWordten(int num) {
-		switch (num) {
-		case 1:
-			return "eleven";
+// 	public static String numberInWordten(int num) {
+// 		switch (num) {
+// 		case 1:
+// 			return "eleven";
 			
-		case 2:
-			return "twelve";		
+// 		case 2:
+// 			return "twelve";		
 	
-		case 3:
-			return "thirteen";
+// 		case 3:
+// 			return "thirteen";
 	
-		case 4:
-			return "fourteen";
+// 		case 4:
+// 			return "fourteen";
 			
-		case 5:
-			return "fifteen";
+// 		case 5:
+// 			return "fifteen";
 			
-		case 6:
-			return "sixteen";
+// 		case 6:
+// 			return "sixteen";
 			
-		case 7:
-			return "seventeen";
+// 		case 7:
+// 			return "seventeen";
 			
-		case 8:
-			return "eighteen";
+// 		case 8:
+// 			return "eighteen";
 			
-		case 9:
-			return "nineteen";
-		case 0:
-			return "ten";
+// 		case 9:
+// 			return "nineteen";
+// 		case 0:
+// 			return "ten";
 	
-		default:
-			return "wrong2";}
-		}
-
+// 		default:
+// 			return "wrong2";}
+// 		}
 }
 
 	
