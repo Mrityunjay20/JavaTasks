@@ -8,7 +8,7 @@ package com.edu.users;
 				+ "then data shld be displayed\r\n"
 				+ "input is 4\r\n"
 				+ "then duplicate values shld be displayed\r\n"
-				+ "input 5 to exit"
+				+ "input 5 to exit the program"
 *
 *
 *
